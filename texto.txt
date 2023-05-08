@@ -1,0 +1,6 @@
+Bienvenido a nuestro programa, 
+ este programa consiste de 3 quizzes diferentes de 10 preguntas cada uno. 
+ Pero en este caso tu eliges si quieres hacer uno de septimo, octavo, o noveno grado. 
+ Las repuestas deben darse solamente con numeros, no son necesarias las cifras, 
+ ni las comas en los numero que son de 1000 para arriba y los decimales son con un punto. 
+ Para escribir una fraccion es asi: 8/9 Y al escribir ecuaciones no se debe poner espacios entre caracteres. Ejemplo: 6-y
